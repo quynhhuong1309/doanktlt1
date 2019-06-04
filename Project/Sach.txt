@@ -1,0 +1,10 @@
+9
+10T,Toan 10,Ngoc Anh,NXB Dai hoc Hue,10000,2004,100,0
+10V,Van 10,Nhat Phuong,NXB Dai hoc Quoc gia Ha Noi,9000,2009,101,0
+10A,Anh van 10,Hai Yen,NXB Dai hoc su pham,8000,2007,120,0
+11T,Toan 11,Hong Nhung,NXB Dai hoc Quoc gia TPHCM,6000,2004,130,0
+11V,Van 11,Khanh Linh,NXB Giao duc,7000,2008,110,0
+11A,Anh van 11,Nhat Phuong,NXB Dai hoc su pham,6000,2000,140,0
+12T,Toan 12,Ngoc Anh,NXB Dai hoc Quoc gia Ha Noi,9000,2007,125,0
+12V,Van 12,Hai Yen,NXB Dai hoc Hue,11000,2009,130,0
+12A,Anh van 12,Hong Nhung,NXB Dai hoc Hue,10000,2006,100,0
